@@ -1,7 +1,5 @@
-# YouWissKommKomm 
+# YouWissKommKomm - Korpus aus Youtube Kommentaren in Wissenschaftskommunikations-Videos
 
-## Korpus aus Youtube Kommentaren in Wissenschaftskommunikations-Videos
--------------------------------
 ## Grunddaten
 - Links:
   - Projektwebsite: https://eee-sciencedebates.digital/
